@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358700129960",
+    "project_id": "fir-cil-a7459",
+    "storage_bucket": "fir-cil-a7459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358700129960:android:ed7d10249b854c2fbeac9d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_cil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358700129960-t7ragripkr9h9cbv6tkefkfnqhtnavd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5osUcbsPKgqXlZ15pIHoMZ1MaqsiqsO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358700129960-t7ragripkr9h9cbv6tkefkfnqhtnavd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
